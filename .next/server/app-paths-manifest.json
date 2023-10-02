@@ -1,0 +1,4 @@
+{
+  "/category/[categoryName]/page": "app/category/[categoryName]/page.js",
+  "/page": "app/page.js"
+}

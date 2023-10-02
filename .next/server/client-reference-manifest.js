@@ -1,0 +1,653 @@
+self.__RSC_MANIFEST={
+  "__ssr_module_mapping__": {
+    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./context/Providers.tsx": {
+      "*": {
+        "id": "(sc_client)/./context/Providers.tsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./context/Providers.tsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "",
+        "async": false
+      },
+      "GetSetCart": {
+        "id": "(sc_client)/./context/Providers.tsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "GetSetCart",
+        "async": false
+      },
+      "GetSetUser": {
+        "id": "(sc_client)/./context/Providers.tsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "GetSetUser",
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "chunks": [
+          "app/product/[productId]/page:app/product/[productId]/page"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "chunks": [
+          "app/product/[productId]/page:app/product/[productId]/page"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "chunks": [
+          "app/product/[productId]/page:app/product/[productId]/page"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/mainNav.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/mainNav.tsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/mainNav.tsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/components/mainNav.tsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/mainNavMob.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/mainNavMob.tsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/mainNavMob.tsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/components/mainNavMob.tsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/components/profileCart.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/components/profileCart.tsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/components/profileCart.tsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/components/profileCart.tsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/product/[productId]/DisplayProduct.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/product/[productId]/DisplayProduct.tsx",
+        "chunks": [
+          "app/product/[productId]/page:app/product/[productId]/page"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/product/[productId]/DisplayProduct.tsx",
+        "chunks": [
+          "app/product/[productId]/page:app/product/[productId]/page"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/product/[productId]/DisplayProduct.tsx",
+        "chunks": [
+          "app/product/[productId]/page:app/product/[productId]/page"
+        ],
+        "name": "default",
+        "async": false
+      }
+    }
+  },
+  "__edge_ssr_module_mapping__": {},
+  "__entry_css_files__": {
+    "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\src\\app\\layout": [
+      "static/css/_app-client_src_app_globals_css.css"
+    ]
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\client\\components\\app-router.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\client\\components\\app-router.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\client\\components\\app-router.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\client\\components\\error-boundary.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\client\\components\\error-boundary.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\client\\components\\layout-router.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\client\\components\\layout-router.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\context\\Providers.tsx": {
+    "id": "(app-client)/./context/Providers.tsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\context\\Providers.tsx#": {
+    "id": "(app-client)/./context/Providers.tsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\context\\Providers.tsx#GetSetCart": {
+    "id": "(app-client)/./context/Providers.tsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "GetSetCart",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\context\\Providers.tsx#GetSetUser": {
+    "id": "(app-client)/./context/Providers.tsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "GetSetUser",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\client\\link.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/product/[productId]/page:app/product/[productId]/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\esm\\client\\link.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/product/[productId]/page:app/product/[productId]/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\client\\link.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/product/[productId]/page:app/product/[productId]/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\esm\\client\\link.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/product/[productId]/page:app/product/[productId]/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\client\\link.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/product/[productId]/page:app/product/[productId]/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\node_modules\\next\\dist\\esm\\client\\link.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/product/[productId]/page:app/product/[productId]/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\src\\app\\components\\mainNav.tsx": {
+    "id": "(app-client)/./src/app/components/mainNav.tsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\src\\app\\components\\mainNav.tsx#": {
+    "id": "(app-client)/./src/app/components/mainNav.tsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\src\\app\\components\\mainNav.tsx#default": {
+    "id": "(app-client)/./src/app/components/mainNav.tsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\src\\app\\components\\mainNavMob.tsx": {
+    "id": "(app-client)/./src/app/components/mainNavMob.tsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\src\\app\\components\\mainNavMob.tsx#": {
+    "id": "(app-client)/./src/app/components/mainNavMob.tsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\src\\app\\components\\mainNavMob.tsx#default": {
+    "id": "(app-client)/./src/app/components/mainNavMob.tsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\src\\app\\components\\profileCart.tsx": {
+    "id": "(app-client)/./src/app/components/profileCart.tsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\src\\app\\components\\profileCart.tsx#": {
+    "id": "(app-client)/./src/app/components/profileCart.tsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\src\\app\\components\\profileCart.tsx#default": {
+    "id": "(app-client)/./src/app/components/profileCart.tsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\src\\app\\product\\[productId]\\DisplayProduct.tsx": {
+    "id": "(app-client)/./src/app/product/[productId]/DisplayProduct.tsx",
+    "chunks": [
+      "app/product/[productId]/page:app/product/[productId]/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\src\\app\\product\\[productId]\\DisplayProduct.tsx#": {
+    "id": "(app-client)/./src/app/product/[productId]/DisplayProduct.tsx",
+    "chunks": [
+      "app/product/[productId]/page:app/product/[productId]/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\src\\app\\product\\[productId]\\DisplayProduct.tsx#default": {
+    "id": "(app-client)/./src/app/product/[productId]/DisplayProduct.tsx",
+    "chunks": [
+      "app/product/[productId]/page:app/product/[productId]/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "C:\\Users\\parth\\OneDrive\\Documents\\projects\\learn\\NextJsFakeShop\\src\\app\\globals.css#": {
+    "id": "null",
+    "name": "",
+    "chunks": [
+      "static/css/_app-client_src_app_globals_css.css"
+    ]
+  }
+}
